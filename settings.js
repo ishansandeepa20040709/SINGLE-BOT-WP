@@ -1,6 +1,6 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//                              K.PRABHASHA
+//                             ISHAN SANDEEPA
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════(00)════════════════//
@@ -20,29 +20,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
+global.alivemsg = `My name is ISHAN SANDEEPA BOT🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['380944814219'] //Owner number 1
-global.premium = ['380944814219'] //Owner Number 2
-global.ownernomer = '380944814219' //Owner Number 3
+global.owner = ['94761160030'] //Owner number 1
+global.premium = ['94761160030'] //Owner Number 2
+global.ownernomer = '94761160030' //Owner Number 3
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = 'ISHAN SANDEEPA' //Owner Name
+global.botname = ' ☬ISHAN SANDEEPA BOT' //Bot Name
 
 global.button = '📱YouTube📍' //Costomize A Button Name In Alive Message
 global.btnurl = '' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬ISHAN SANDEEPA BOT࿐' //Bot Pacage Name
+global.author = 'ISHAN SANDEEPA' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/ishansandeepa20040709' //Github Account!
 global.footer = '©_Kumuthu.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
