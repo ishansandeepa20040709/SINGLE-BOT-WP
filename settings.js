@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is ISHAN SANDEEPA BOT🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is ISHAN SANDEEPA` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['94761160030'] //Owner number 1
 global.premium = ['94761160030'] //Owner Number 2
@@ -43,7 +43,7 @@ global.sp = '⭔' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/ishansandeepa20040709' //Github Account!
-global.footer = '©_Ishan.' // DO NOT CHANGE!
+global.footer = '©_ISHAN SANDEEPA.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
