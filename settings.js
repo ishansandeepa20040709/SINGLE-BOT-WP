@@ -43,7 +43,7 @@ global.sp = '⭔' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/ishansandeepa20040709' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.footer = '©_Ishan.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
